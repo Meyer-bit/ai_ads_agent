@@ -1,0 +1,68 @@
+{
+  "pausar": [
+    {
+      "campanha": "Black Friday Tech",
+      "motivo": "Pausar porque o ROAS (1.1) est\u00e1 baixo e o CPA (120.0) est\u00e1 muito alto e o CTR (2.0) est\u00e1 fraco"
+    },
+    {
+      "campanha": "Lancamento App X",
+      "motivo": "Pausar porque o ROAS (0.5) est\u00e1 baixo e o CPA (200.0) est\u00e1 muito alto e o CTR (0.9) est\u00e1 fraco"
+    },
+    {
+      "campanha": "Festival de Musica",
+      "motivo": "Pausar porque o ROAS (0.8) est\u00e1 baixo e o CPA (150.0) est\u00e1 muito alto e o CTR (1.2) est\u00e1 fraco"
+    },
+    {
+      "campanha": "Lancamento Carro Y",
+      "motivo": "Pausar porque o ROAS (0.4) est\u00e1 baixo e o CPA (250.0) est\u00e1 muito alto e o CTR (0.7) est\u00e1 fraco"
+    }
+  ],
+  "escalar": [
+    {
+      "campanha": "Verao Digital",
+      "motivo": "Escalar porque o ROAS (6.2) est\u00e1 alto e o CPA (25.0) est\u00e1 baixo e o CTR (6.5) est\u00e1 bom"
+    },
+    {
+      "campanha": "Promocao Fitness",
+      "motivo": "Escalar porque o ROAS (5.0) est\u00e1 alto e o CPA (30.0) est\u00e1 baixo e o CTR (5.2) est\u00e1 bom"
+    },
+    {
+      "campanha": "Semana da Beleza",
+      "motivo": "Escalar porque o ROAS (5.8) est\u00e1 alto e o CPA (28.0) est\u00e1 baixo e o CTR (5.8) est\u00e1 bom"
+    },
+    {
+      "campanha": "Mega Promocao Games",
+      "motivo": "Escalar porque o ROAS (6.8) est\u00e1 alto e o CPA (26.0) est\u00e1 baixo e o CTR (6.2) est\u00e1 bom"
+    },
+    {
+      "campanha": "Cyber Monday Eletronicos",
+      "motivo": "Escalar porque o ROAS (7.5) est\u00e1 alto e o CPA (22.0) est\u00e1 baixo e o CTR (7.0) est\u00e1 bom"
+    }
+  ],
+  "testar": [
+    {
+      "campanha": "Natal Fashion",
+      "motivo": "Testar porque o ROAS (3.4) \u00e9 bom, mas o CTR (3.8) \u00e9 mediano"
+    },
+    {
+      "campanha": "Dia das Maes",
+      "motivo": "Testar porque o ROAS (2.8) \u00e9 bom, mas o CTR (3.0) \u00e9 mediano"
+    },
+    {
+      "campanha": "Volta as Aulas",
+      "motivo": "Testar porque o ROAS (3.2) \u00e9 bom, mas o CTR (3.5) \u00e9 mediano"
+    },
+    {
+      "campanha": "Dia dos Namorados",
+      "motivo": "Testar porque o ROAS (4.0) \u00e9 bom, mas o CTR (4.1) \u00e9 mediano"
+    },
+    {
+      "campanha": "Inverno Gourmet",
+      "motivo": "Testar porque o ROAS (3.6) \u00e9 bom, mas o CTR (3.6) \u00e9 mediano"
+    },
+    {
+      "campanha": "Pascoa Chocolates",
+      "motivo": "Testar porque o ROAS (2.0) \u00e9 bom, mas o CTR (2.9) \u00e9 mediano"
+    }
+  ]
+}
