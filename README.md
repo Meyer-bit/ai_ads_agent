@@ -67,6 +67,25 @@ Essas regras simulam decisões reais tomadas por gestores de tráfego e analista
 
 ---
 
+## Tratamento e Preparação dos Dados
+
+Antes da aplicação da lógica de Inteligência Artificial, os dados das campanhas passam por um processo de tratamento e padronização para garantir decisões consistentes e confiáveis.
+
+As principais etapas foram:
+
+- Leitura dos dados a partir de arquivo CSV contendo métricas de campanhas de marketing.
+- Conversão de tipos de dados numéricos (ROAS, CPA, CTR, investimento e receita).
+- Padronização de nomes de campanhas e colunas.
+- Validação de valores ausentes ou inconsistentes.
+- Cálculo de métricas derivadas utilizadas pela IA, como:
+  - Relação custo x retorno
+  - Eficiência da campanha
+  - Indicadores de desempenho mínimo aceitável
+
+Esse tratamento garante que a IA tome decisões baseadas em dados limpos, coerentes e comparáveis entre campanhas.
+
+---
+
 ## Arquitetura do Projeto
 O projeto segue uma arquitetura modular e organizada:
 
@@ -159,6 +178,10 @@ O dashboard foi desenvolvido para visualizar as decisões geradas pela IA sobre 
 
 ### Prints do Dashboard
 ![Visão Geral](dashboard/screenshots/overview.png)
+
+
+![Decisão da IA por campanha](dashboard/screenshots/decisoes_por_campanha.png)
+
 
 
 ## Conclusão
